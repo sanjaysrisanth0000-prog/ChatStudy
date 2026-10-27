@@ -127,11 +127,13 @@ server.close()
 output:
 client:
 
-<img width="468" height="181" alt="image" src="https://github.com/user-attachments/assets/98fed69a-2051-4fcb-93b0-f70b15932866" />
+<img width="430" height="130" alt="image" src="https://github.com/user-attachments/assets/39729f5b-20aa-4374-a09b-a82654e26ca3" />
+
+
 
 server:
 
-<img width="430" height="130" alt="image" src="https://github.com/user-attachments/assets/39729f5b-20aa-4374-a09b-a82654e26ca3" />
+<img width="468" height="181" alt="image" src="https://github.com/user-attachments/assets/98fed69a-2051-4fcb-93b0-f70b15932866" />
 
 
 ## Result:
